@@ -1,5 +1,7 @@
 git init 
 
+git config --global github.user "{name}"
+
 git config --global github.token "{token}"
 
 git config –global user.name "{name}"
